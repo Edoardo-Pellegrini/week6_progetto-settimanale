@@ -1,0 +1,27 @@
+[
+  {
+    "username": "john",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "Male",
+    "profileURL": "https://th.bing.com/th/id/OIP.jPpVGcIUih5YWhUYbSKcwgHaHk?w=213&h=217&c=7&r=0&o=5&pid=1.7",
+    "email": "john.doe@example.com"
+  },
+  {
+    "username": "jane",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "gender": "Female",
+    "profileURL": "https://th.bing.com/th/id/OIP.xOzp44s2LXWXE48lSQ_P7gHaHa?w=174&h=180&c=7&r=0&o=5&pid=1.7",
+    "email": "jane.doe@example.com"
+  },
+  {
+    "username": "Tom",
+    "firstName": "Tom",
+    "lastName": "Joshua",
+    "gender": "Other",
+    "profileURL": "https://th.bing.com/th/id/OIP.JA1xPGlu19LsWmeQ2NYFJgHaHC?w=208&h=197&c=7&r=0&o=5&pid=1.7",
+    "email": "tom.joshe@example.com"
+  }
+
+]
