@@ -19,7 +19,7 @@ function creazione_cards(data){
         let div = document.createElement('div')
         div.className = ('card border border-secondary')
         div.style = ('widht: 18rem')
-        div.innerHTML = '<img src="' + ele.profileURL + '" class="card-img-top" alt="fotoprofilo"></img><div class="card-body border border-secondary"><h5 class="card-title">'+ ele.firstName + ' ' + ele.lastName + '</h5><p class="card-text">Gender: ' + ele.gender + '</p><p class="card-text">Hi,I am '+ele.username+', view my profile!</p> <a  class="btn btn-primary" onclick="mostra()">View profile</a></div>'
+        div.innerHTML = '<img src="' + ele.profileURL + '" class="card-img-top" alt="fotoprofilo"></img><div class="card-body border border-secondary"><h5 class="card-title">'+ ele.firstName + ' ' + ele.lastName + '</h5><p class="card-text">Gender: ' + ele.gender + '</p><p class="card-text">Hi,I am '+ele.username+', view my profile!</p> </div>'
                         
                         
                         
