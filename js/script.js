@@ -1,5 +1,5 @@
 
-fetch("../users.json").then(function(resp){
+fetch("users.json").then(function(resp){
   return resp.json();
 
 }) 
